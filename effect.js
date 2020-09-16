@@ -112,9 +112,6 @@ $('document').ready(function(){
 	function backGroundImg() {
 		document.body.style.backgroundImage = "url('IMG_20200916_173225.jpg')";
 		
-		document.body.style.background-position  = "center";
-		document.body.style.background-repeat  = "no-repeat";
-		document.body.style.background-size  = "cover";
 		
 		
 
