@@ -110,7 +110,7 @@ $('document').ready(function(){
 	}
 	
 	function backGroundImg() {
-		document.body.style.backgroundImage = "url('Niru.jpg')";
+		document.body.style.backgroundImage = "url('IMG_20200916_173225.jpg')";
 	}
 
 	$('#balloons_flying').click(function(){
