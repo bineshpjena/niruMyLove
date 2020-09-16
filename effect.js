@@ -111,7 +111,13 @@ $('document').ready(function(){
 	
 	function backGroundImg() {
 		document.body.style.backgroundImage = "url('IMG_20200916_173225.jpg')";
-		document.body.style.backgroundSize  = "100% 100%";
+		
+		document.body.style.background-position  = "center";
+		document.body.style.background-repeat  = "no-repeat";
+		document.body.style.background-size  = "cover";
+		
+		
+
 	}
 
 	$('#balloons_flying').click(function(){
